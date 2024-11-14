@@ -11,3 +11,11 @@ c)anomaly_detection -> https://github.com/intimanjunath/timegpt-tabula-rdl-forec
 d)Forecasting Energy Demand -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/Forecasting_Energy_Demand.ipynb
 
 e)bitcoin_price_prediction -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/bitcoin_price_prediction.ipynb 
+
+a) Generate synthetic data -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/Tabula_on_insurance_dataset.ipynb
+
+b) demonstrate inference -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/inference.ipynb
+
+c) RDL and relbench -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/train_model.ipynb
+
+YouTube : https://www.youtube.com/playlist?list=PLh8Ujk1E7vYXsZg7MYOzQKXJlNxK5VWDz 
