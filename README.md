@@ -18,7 +18,7 @@ Tabular:
 
 a) Generate synthetic data -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/Tabula_on_insurance_dataset_ipynb_.ipynb
 
-b) demonstrate inference -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/inference.ipynb
+b) demonstrate inference -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/Inference.ipynb
 
 RDL and relbench:
 
