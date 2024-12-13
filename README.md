@@ -34,10 +34,6 @@ Youtube : https://www.youtube.com/watch?v=2uV1vpSZWB0
 1. **GNN-Based Model Training for Tabular Prediction**  
    - [train_model.ipynb](./train_model.ipynb)
 
-## Repository Structure
-
-- **Notebooks**: Each `.ipynb` file corresponds to a specific task or demonstration.
-- **Data**: Includes datasets used in the notebooks.
 
 ## Getting Started
 
