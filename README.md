@@ -1,27 +1,44 @@
-# timegpt-tabula-rdl-forecasting
-explore timegpt, tabula9 and relational deep learning
+# TimeGPT, Tabula, and Relational Deep Learning Exploration
 
-TimeGPT: 
+This repository contains Google Colab notebooks demonstrating TimeGPT, Tabula, and Relational Deep Learning (RDL) applications.
 
-a) multiple_series -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/multiple_series.ipynb
+## TimeGPT
 
-b) finetuning_timegpt -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/finetuning_timegpt.ipynb
+1. **Multivariate and Long Horizon Forecasting**  
+   - [multiple_series.ipynb](./multiple_series.ipynb)
 
-c)anomaly_detection -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/anomaly_detection.ipynb
+2. **Fine-Tuning with Custom Data**  
+   - [finetuning_timegpt.ipynb](./finetuning_timegpt.ipynb)
 
-d)Forecasting Energy Demand -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/Forecasting_Energy_Demand.ipynb
+3. **Anomaly Detection in Time Series**  
+   - [anomaly_detection.ipynb](./anomaly_detection.ipynb)
 
-e)bitcoin_price_prediction -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/bitcoin_price_prediction.ipynb 
+4. **Energy Demand Forecasting**  
+   - [Forecasting_Energy_Demand.ipynb](./Forecasting_Energy_Demand.ipynb)
 
+5. **Bitcoin Price Prediction**  
+   - [bitcoin_price_prediction.ipynb](./bitcoin_price_prediction.ipynb)
 
-Tabular:
+## Tabula
 
-a) Generate synthetic data -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/Tabula_on_insurance_dataset_ipynb_.ipynb
+1. **Synthetic Data Generation**  
+   - [Tabula_on_insurance_dataset.ipynb](./Tabula_on_insurance_dataset.ipynb)
 
-b) demonstrate inference -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/Inference.ipynb
+2. **Zero-Shot Inference**  
+   - [Inference.ipynb](./Inference.ipynb)
 
-RDL and relbench:
+## Relational Deep Learning (RDL) and RelBench
 
-c) RDL and relbench -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/train_model.ipynb
+1. **GNN-Based Model Training for Tabular Prediction**  
+   - [train_model.ipynb](./train_model.ipynb)
 
-YouTube : https://www.youtube.com/playlist?list=PLh8Ujk1E7vYXsZg7MYOzQKXJlNxK5VWDz 
+## Repository Structure
+
+- **Notebooks**: Each `.ipynb` file corresponds to a specific task or demonstration.
+- **Data**: Includes datasets used in the notebooks.
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting.git
