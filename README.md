@@ -2,6 +2,8 @@
 
 This repository contains Google Colab notebooks demonstrating TimeGPT, Tabula, and Relational Deep Learning (RDL) applications.
 
+Youtube : https://www.youtube.com/watch?v=2uV1vpSZWB0 
+
 ## TimeGPT
 
 1. **Multivariate and Long Horizon Forecasting**  
