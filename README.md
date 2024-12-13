@@ -16,7 +16,7 @@ e)bitcoin_price_prediction -> https://github.com/intimanjunath/timegpt-tabula-rd
 
 Tabular:
 
-a) Generate synthetic data -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/Tabula_on_insurance_dataset.ipynb
+a) Generate synthetic data -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/Tabula_on_insurance_dataset_ipynb_.ipynb
 
 b) demonstrate inference -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/inference.ipynb
 
