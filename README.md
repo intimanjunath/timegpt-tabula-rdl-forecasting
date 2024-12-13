@@ -1,6 +1,7 @@
 # timegpt-tabula-rdl-forecasting
 explore timegpt, tabula9 and relational deep learning
 
+TimeGPT: 
 
 a) multiple_series -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/multiple_series.ipynb
 
@@ -12,9 +13,14 @@ d)Forecasting Energy Demand -> https://github.com/intimanjunath/timegpt-tabula-r
 
 e)bitcoin_price_prediction -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/bitcoin_price_prediction.ipynb 
 
+
+Tabular:
+
 a) Generate synthetic data -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/Tabula_on_insurance_dataset.ipynb
 
 b) demonstrate inference -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/inference.ipynb
+
+RDL and relbench:
 
 c) RDL and relbench -> https://github.com/intimanjunath/timegpt-tabula-rdl-forecasting/blob/main/train_model.ipynb
 
